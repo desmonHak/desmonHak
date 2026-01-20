@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/elhadjx">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Hello+World!" 
-      alt="Hello World!" 
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Hello+World!"
+      alt="Hello World!"
     />
   </a>
 </p>
@@ -29,8 +29,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea" 
+    <img
+      src="https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea"
       alt="Skills Icons"
     />
   </a>
@@ -39,19 +39,23 @@
 <br/>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=desmonhak&show_icons=true&theme=dark&locale=en" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=desmonhak&show_icons=true&theme=dark&locale=en"
     alt="GitHub Stats"
   />
 </p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=desmonhak&theme=transparent&hide_border=true&locale=es&short_numbers=true&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
-</p>
+<br/>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact&theme=transparent" 
+<img src="https://streak-stats.demolab.com?user=desmonhak&theme=transparent&hide_border=true&locale=es&short_numbers=true&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact&theme=transparent"
     alt="Top Languages"
   />
 </p>
@@ -64,7 +68,7 @@
   <br/>
 
   <p align="center">
-    <img 
+    <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=desmonHak&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0"
       alt="Contribution Graph"
     />
