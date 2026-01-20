@@ -5,19 +5,43 @@ He estudiado un grado medio en Sistemas microinformaticos y redes (SMR) y un gra
 
 Aqui dejo algunas de las tecnologias que controlo en mi dia a dia:
 
-# 🚀 Skills 
+<h2 align="center">🚀 Skills</h2>
 
 <p align="center">
+  <em>Technologies, tools & platforms I enjoy working with</em>
+</p>
 
-[![Programming Languages](https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea)](https://skillicons.dev)
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea" 
+      alt="Skills Icons"
+    />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact&theme=transparent" 
+    alt="Top Languages"
+  />
+</p>
+
+<br/>
 
 <details open>
-<summary>GitHub Contribution Chart</summary>
+  <summary align="center"><strong>📈 GitHub Contribution Graph</strong></summary>
 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=desmonHak&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
-</p>
+  <br/>
+
+  <p align="center">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=desmonHak&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0"
+      alt="Contribution Graph"
+    />
+  </p>
 </details>
-
-
