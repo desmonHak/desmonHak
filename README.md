@@ -6,7 +6,7 @@ He estudiado un grado medio en Sistemas microinformaticos y redes (SMR) y un gra
 Aqui dejo algunas de las tecnologias que controlo en mi dia a dia:
 
 # 🚀 Skills 
-[![Programming Languages](https://skillicons.dev/icons?i=java,c,cpp,md,python,flask,flutter,html,css,github,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,figma,androidstudio,arduino,raspberrypi,vscode)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact)
 
