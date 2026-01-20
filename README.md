@@ -46,10 +46,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=desmonhak&theme=dark" 
-    alt="GitHub Streak"
-  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=desmonhak&theme=transparent&hide_border=true&locale=es&short_numbers=true&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
