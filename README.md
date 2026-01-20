@@ -48,12 +48,6 @@
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=desmonhak&theme=transparent&hide_border=true&locale=es&short_numbers=true&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact&theme=transparent"
     alt="Top Languages"
