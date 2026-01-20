@@ -6,6 +6,7 @@ He estudiado un grado medio en Sistemas microinformaticos y redes (SMR) y un gra
 Aqui dejo algunas de las tecnologias que controlo en mi dia a dia:
 
 # 🚀 Skills 
+
 <p align="center">
 
 [![Programming Languages](https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea)](https://skillicons.dev)
