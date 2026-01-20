@@ -1,4 +1,8 @@
-## Hello World! 👋
+
+<p align="center">
+  <a href="https://github.com/elhadjx">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=Hello+World!" alt="Hello World!" /></a>
+</p>
 
 Hola mundo, soy una persona autodidacta a la que le gusta la programación de bajo nivel y entender el funcionar de las cosas. Tambien me gusta la impresión 3d y el dibujar manga. 
 He estudiado un grado medio en Sistemas microinformaticos y redes (SMR) y un grado superior de desarollo de apliaciones multiplataforma (DAM).
