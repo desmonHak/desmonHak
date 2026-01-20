@@ -27,13 +27,13 @@ Aqui dejo algunas de las tecnologias que controlo en mi dia a dia:
 </p>
 
 <br/>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desmonhak&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="desmonhak" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desmonhak&show_icons=true&theme=dark&locale=en" alt="desmonhak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmonhak&theme=dark" alt="desmonhak" /></p>
 
 <p align="center">
+  <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desmonhak&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="desmonhak" /></p>-->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desmonhak&show_icons=true&theme=dark&locale=en" alt="desmonhak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmonhak&theme=dark" alt="desmonhak" />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact&theme=transparent" 
     alt="Top Languages"
