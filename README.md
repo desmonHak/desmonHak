@@ -38,24 +38,6 @@
 
 <br/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=desmonhak&show_icons=true&theme=dark&locale=en"
-    alt="GitHub Stats"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmonHak&layout=compact&theme=transparent"
-    alt="Top Languages"
-  />
-</p>
-
-<br/>
-
 <details open>
   <summary align="center"><strong>GitHub Contribution Graph</strong></summary>
 
