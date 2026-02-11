@@ -30,7 +30,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea"
+      src="https://skillicons.dev/icons?i=maven,java,c,cpp,md,python,selenium,flask,django,figma,dart,flutter,html,css,js,github,kali,linux,windows,obsidian,git,mongodb,sqlite,mysql,kotlin,androidstudio,arduino,raspberrypi,vscode,sublime,bootstrap,fastapi,hibernate,spring,idea,react"
       alt="Skills Icons"
     />
   </a>
